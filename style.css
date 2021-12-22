@@ -1,0 +1,622 @@
+/*body {
+    position: relative;
+    text-align: center;
+    left: 50%;
+}*/
+
+.first-one {
+    background-color: rgb(168, 219, 240);
+    text-align: center;
+    height: 500px;
+}
+
+.ehh-1 {
+    position: relative;
+    right: 90px;
+    top: 70px;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+    display: inline;       
+}
+
+.fa-one /*circle*/{
+    position: relative;
+    color: blue;
+    font-size: 33px;
+    top: 75px;
+    right: 95px;
+}
+
+.fa-two /*alt*/ {
+    position: relative;
+    color: blue;
+    top: 89px;
+    left: -115px;
+}
+
+.leta-one {
+    position: relative;
+    color: rgb(15, 197, 167);
+    top: 75px;
+    font-family: brush script mt ;
+    font-size: 50px;
+    left: 20px;
+}
+
+.fa-3 /*circle*/{
+    position: relative;
+    color: blue;
+    font-size: 33px;
+    top: 37px;
+    right: 70px;
+}
+
+.fa-4 /*alt*/{
+    position: relative;
+    color: blue;
+    top: 50px;
+    left: -90px;
+}
+
+.fa-5 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    top: 26px;
+    left: 96px;
+}
+
+.alpha-1 {
+    position: relative;
+    color: black;
+    top: 65px;
+    left: 187px;
+    display: block;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.fa-6 {
+    position: relative;
+    color: orangered;
+    left: 170px;
+}
+
+.leta-two {
+    position: relative;
+    color: rgb(15, 197, 167);
+    top: 40px;
+    left: 15px;
+}
+
+.cld-1 {
+    position: relative;
+    color: rgb(163, 148, 148);
+    font-size: 70px;
+    left: 500px;
+    bottom: 220px;
+}
+
+.cld-2 {
+    position: relative;
+    color: rgb(163, 148, 148);
+    font-size: 70px;
+    right: 90px;
+    top: 50px;
+}
+
+.mont {
+    position: relative;
+    height: 120px;
+    width: 340px;
+    top: 150px;
+    left: -60px;
+}
+
+.fa-7 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    top: 40px;
+    right: -25px;
+}
+
+.alpha-2 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    left: 350px;
+    top: -40px;
+}
+
+.first-two {
+    background-color: white;
+    text-align: center;
+}
+
+.girl {
+    width: 200px;
+    height: 100px;
+    top: 70px;
+    border-radius: 50%;
+}
+
+
+.fa-8 {
+    position: relative;
+    color: blue;
+    font-size: 33px;
+    left: 70px;
+}
+
+.fa-9 {
+    position: relative;
+    color: blue;
+    left: 30px;
+    bottom: -10px;
+}
+
+.ehh-3 {
+   position: relative;
+   font-size: 14px;
+   color: white;
+   background-color: black;
+   border-radius: 100px;
+   display: inline;
+   left: 48px;
+   bottom: 7px;
+}
+
+.leta-3 {
+    color: rgb(124, 188, 216);
+    font-size: 30px;
+}
+
+.fa-10 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    left: 240px;
+    top: -30px;
+}
+
+.fa-11 {
+    position: relative;
+    color: orangered;
+    font-size: 18px;
+    left: 200px;
+    top: -16px;
+}
+
+.fa-12 {
+    color: red;
+}
+
+.fa-13 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    left: 65px;
+    bottom: -20px;
+}
+
+.fa-14 {
+    position: relative;
+    color: orangered;
+    font-size: 18px;
+    left: 30px;
+    bottom: -35px;
+}
+
+.alpha-3 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    right: -280px;
+    top: -60px;
+}
+
+.alpha-4 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    left: 108px;
+    top: -10px;
+}
+
+.dot-1 {
+    position: relative;
+    color: grey;
+    font-size: 44px;
+    bottom: 40px;
+    right: -16px;
+}
+
+.fa-15 {
+    position: relative;
+    color: blue;
+    font-size: 33px;
+    left: 145px;
+}
+
+.fa-16 {
+    position: relative;
+    color: orangered;
+    font-size: 18px;
+    right: 95px;
+    bottom: -15px;
+}
+
+.fa-17 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    right: 135px;
+}
+
+.fa-18 {
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    right: -50px;
+    bottom: -15px;
+}
+
+.leta-7 {
+    color: rgb(124, 188, 216);
+    font-size: 30px;
+}
+
+.alpha-5 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    right: 170px;
+    bottom: 80px;
+}
+
+.ehh-4 {
+   position: relative;
+   font-size: 14px;
+   color: white;
+   background-color: black;
+   border-radius: 100px;
+   display: inline;
+   top: -120px;
+   right: -130px;
+}
+
+.fa-19 {
+    position: relative;
+    color: blue;
+    font-size: 33px;
+    left: 90px;
+    top: -20px;
+}
+
+.ehh-5 {
+    position: relative;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+    display: inline;
+    bottom: 27px;
+    right: -65px;
+}
+
+.fa-20 {
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    left: 50px;
+    top: -7px;
+}
+
+.leta-8 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    right: 80px;
+}
+
+.fa-21 {
+    color: rgb(15, 157, 218);
+    font-size: 80px;
+    position: relative;
+    left: -240px;
+    border: 10px;
+}
+
+.leta-9 {
+    position: relative;
+    top: -80px;
+    right: -40px;
+}
+
+.leta-10 {
+    position: relative;
+    top: -80px;
+    right: -60px;
+}
+
+.leta-11 {
+    position: relative;
+    top: -80px;
+    right: -58px;
+}
+
+.leta-12 {
+    position: relative;
+    top: -80px;
+    right: 130px;
+}
+
+.fa-22 {
+    position: relative;
+    color: orangered;
+    font-size: 33px;
+    right: 23%;
+}
+
+.fa-23 {
+    position: relative;
+    color: orangered;
+    font-size: 18px;
+    right: 324px;
+    top: 10px;
+}
+
+.pep-1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    left: 18%;
+    top: -30px;
+}
+
+.leta-13 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    left: -206px;
+}
+
+.leta-14 {
+    position: relative;
+    top: -150px;
+    left: -82px;
+}
+
+.leta-15 {
+    position: relative;
+    top: -150px;
+    left: -65px;
+}
+
+.leta-16 {
+    position: relative;
+    top: -150px;
+    left: -135px;
+}
+
+.alpha-6 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    bottom: 290px;
+    right: 375px;
+}
+
+.dot-2 {
+    position: relative;
+    color: grey;
+    font-size: 44px;
+    top: -110px;
+}
+
+.leta-17 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    bottom: 80px;
+}
+
+.fa-24 {
+    position: relative;
+    font-size: 33px;
+    color: rgb(15, 157, 218);
+    top: -100px;
+    left: 140px;
+}
+
+.ehh-6 {
+    position: relative;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+    display: inline;
+    bottom: 105px;
+    left: 135px;
+}
+
+.fa-25 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    font-size: 18px;
+    right: -80px;
+    top: -85px;
+}
+
+.leta-18 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    bottom: 85px;
+}
+
+.fa-26 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    font-size: 33px;
+    left: 180px;
+    top: -95px;
+}
+
+.fa-27 {
+    position: relative;
+    color: rgb(15, 157, 218);
+    font-size: 18px;
+    right: -120px;
+    bottom: 80px;
+}
+
+.ehh-7 {
+    position: relative;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+    display: inline;
+    top: -100px;
+    left: 175px;
+}
+
+.leta-19 {
+    position: relative;
+    bottom: 40px;
+}
+
+.leta-20 {
+    position: relative;
+    bottom: 40px;
+}
+
+.first-three {
+    background-color: rgb(15, 157, 218);
+    top: 150px;
+}
+
+.fa-28 {
+    position: relative;
+    font-size: 33px;
+    color: orangered;
+    right: -60px;
+}
+
+.fa-29 {
+    position: relative;
+    color: orangered;
+    font-size: 18px;
+    left: 20px;
+    bottom: -15px;
+}
+
+.alpha-7 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    right: -100px;
+    top: -30px;
+}
+
+.leta-21 {
+    position: relative;
+    color: darkcyan;
+    top: -215px;
+    right: 60px;
+}
+
+.leta-22 {
+    position: relative;
+    color: darkcyan;
+    bottom: 240px;
+    left: 35px;
+}
+
+.leta-23 {
+    position: relative;
+    color: darkcyan;
+    right: -130px;
+    top: -270px;
+}
+
+.fa-30 {
+    position: relative;
+    font-size: 33px;
+    color: blue;
+    left: 180px;
+    bottom: 70px;
+}
+
+.fa-31 {
+    position: relative;
+    font-size: 18px;
+    color: blue;
+    right: -140px;
+    top: -55px;
+}
+
+.ehh-9 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    border-radius: 100px;
+    left: 190px;
+    bottom: 100px;
+}
+
+.fa-32 {
+    position: relative;
+    font-size: 33px;
+    color: orangered;
+    right: 80px;
+    top: -60px;
+}
+.fa-33 {
+    position: relative;
+    font-size: 18px;
+    color: orangered;
+    left: -100px;
+    bottom: 45px;
+}
+
+.alpha-8 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    right: 140px;
+    top: -95px;
+}
+
+.fa-34 {
+    position: relative;
+    font-size: 33px;
+    color: orangered;
+    left: 530px;
+    bottom: 160px;
+}
+
+.alpha-9 {
+    position: relative;
+    color: black;
+    font-size: 17px;
+    right: -570px;
+    top: -190px;
+}
+
+.fa-35 {
+    position: relative;
+    font-size: 18px;
+    color: orangered;
+    left: 490px;
+    bottom: 145px; 
+}
+
+.leta-24 {
+    position: relative;
+    color: white;
+    top: -240px;
+    right: -40px;
+    font-size: 15px;
+}
